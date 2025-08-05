@@ -1,0 +1,5 @@
+Watch Django REST API YouTube playlist
+Build mini project using FastAPI and MongoDB
+Apply to 2 internships/jobs today
+Push latest code changes to GitHub
+Read 1 chapter of "Clean Code
